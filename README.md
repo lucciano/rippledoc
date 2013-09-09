@@ -9,6 +9,8 @@ Rippledoc generates a not-especially-ordered top-level table of
 contents for you, as well as little directory listing toc files for
 each subdirectory.
 
+**Currently, it has only been tested to run on GNU/Linux.**
+
 Rippledoc is written in Perl 5.
 
 
